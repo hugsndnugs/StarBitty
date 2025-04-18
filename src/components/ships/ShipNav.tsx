@@ -11,7 +11,6 @@ export default function ShipNav() {
   
   const navLinks = [
     { name: 'Ships List', href: '/ships' },
-    { name: 'Compare Ships', href: '/ships/compare' },
     { name: 'Components', href: '/ships/components' },
     { name: 'Loadout Builder', href: '/ships/loadout' },
   ];
